@@ -1,0 +1,9 @@
+# Compiled files
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+
+# VS Code local settings not shared by this project
+.vs/
