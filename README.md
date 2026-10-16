@@ -4,6 +4,8 @@
 
 專案同時提供純 HTML / CSS / JavaScript 的互動網頁版，可部署到 GitHub Pages，直接在瀏覽器輸入數字、逐步執行並觀察碰撞與鏈結結果。
 
+**線上操作：<https://stxrduzz404.github.io/HashTableChaining13/>**
+
 ## 題目要求
 
 - 雜湊函式：`h(key) = key % 13`
@@ -22,7 +24,7 @@
 
 ## 操作網頁版
 
-部署 GitHub Pages 後，可直接開啟專案網址操作。網頁支援：
+開啟上方的 GitHub Pages 網址即可直接操作。網頁支援：
 
 - 一次建立完整雜湊表
 - 逐筆加入與自動播放
